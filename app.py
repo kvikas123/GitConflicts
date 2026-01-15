@@ -1,5 +1,5 @@
 # A tiny Python program
 
-print("Bye")
+print("TATA")
 print ("welcome")
 print ("2026")
