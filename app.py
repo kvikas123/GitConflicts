@@ -1,4 +1,4 @@
 # A tiny Python program
-print("Hello")
+print("Bye")
 print ("welcome")
 print ("2026")
